@@ -1,0 +1,138 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+    font-size: 14px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 5px 0;
+    color: #528bfc;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: left;
+}
+
+h2 {
+    font-size: 1.5em;
+    border-bottom: 1px solid #3357a0;
+    padding-bottom: 2px;
+}
+
+h3, h4 {
+    font-size: 1em;
+    color: #555;
+}
+
+h5, h6 {
+    font-size: 0.9em;
+    color: #777;
+}
+
+ul {
+    padding-left: 20px; /* Ajoute une indentation pour les listes */
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #1d3463;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    display: inline-block;
+    margin: 0 0 10px 0;
+    border-radius: 50%;
+}
+
+hr {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+}
+
+.container {
+    width: 70%;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 20px 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    margin: 20px 0;
+    color: #aaa;
+}
+
+/* Specific sections styling */
+.section {
+    margin-bottom: 20px;
+}
+
+.section-title {
+    font-size: 1.2em;
+    color: #3957db;
+    margin-bottom: 10px;
+    border-bottom: px solid #6e9bee;
+    padding-bottom: 5px;
+}
+
+.contact-info img {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.contact-info {
+    text-align: left;
+}
+
+.contact-info h4 {
+    display: inline;
+    margin: 0 10px;
+    color: #333;
+}
+.contact{
+    display: flex;
+    width: 100%;
+    position: relative;
+    align-content:center;
+    justify-content: center;
+    
+    
+}
+#Map-img {
+    margin-right: 1px;
+    padding-left: 0px;
+    margin-left: 0%;
+}
+
+#phone-img {
+    margin-right: 1px;
+    padding-left: 5%px;
+    margin-left: 14%;
+}
+
+#mail-img {
+    margin-right: 1px;
+    padding-left: 5%px;
+    margin-left: 14%;
+}
+
+#permis-img {
+    margin-right: 1px;
+    padding-left: 5%px;
+    margin-left: 14%;
+}
